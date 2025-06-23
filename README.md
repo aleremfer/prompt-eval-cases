@@ -11,4 +11,7 @@ Each case focuses on how models interpret the same instruction in different cont
 
 The goal is to show how prompt design impacts output behavior across models.
 
-🧪 Datasets and annotations coming soon.
+📂 The cases/ folder includes manually curated evaluations and annotations based on real-world prompts.
+These samples serve as practical datasets for comparing model behavior in terms of clarity, tone, factuality, and ethics.
+
+🧪 Ongoing updates will include more multilingual and domain-specific examples (legal, medical, statistical).
