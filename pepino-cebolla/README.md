@@ -22,7 +22,8 @@ The user asked the following question (in Spanish):
 No additional context was provided.
 
 ---
-*Full transcript of the original interaction (in Spanish) is available in `/cases/pepino-cebolla-full-dialogue.md`.*
+*Full transcript of the original interaction (in Spanish) is available in `full-dialogue.es.md`.*
+
 
 
 
