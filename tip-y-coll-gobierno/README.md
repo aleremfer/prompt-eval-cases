@@ -91,3 +91,5 @@ https://creativecommons.org/licenses/by/4.0/
 
 Attribution is appreciated if this material is reused in internal QA documentation, benchmarks, or publications.
 
+## Tags
+LLM, AI QA, model evaluation, factuality, semantic QA, implicit humor, cultural references, pragmatics, interpretation errors, NLP
