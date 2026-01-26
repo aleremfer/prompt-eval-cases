@@ -80,3 +80,18 @@ Este caso pertenece a la misma familia de errores que:
 No todo lenguaje quiere ser interpretado.  
 Algunos enunciados solo quieren ser **reconocidos**.
 La única respuesta ideal debería ser, a mi parecer, preguntarle al usuario a qué se refiere.
+
+## Licencia
+
+Este estudio de caso se basa en una interacción real y puede reutilizarse con fines **educativos y de investigación**.
+
+**Licencia sugerida:**  
+Creative Commons Atribución 4.0 Internacional (CC BY 4.0)  
+https://creativecommons.org/licenses/by/4.0/
+
+Se agradece la atribución si este material se reutiliza en documentación interna de QA, benchmarks, evaluaciones de modelos o publicaciones.
+
+## Tags
+
+LLM, AI QA, evaluación de modelos, factualidad, QA semántico, humor implícito, referencias culturales, pragmática, errores de interpretación, NLP
+
