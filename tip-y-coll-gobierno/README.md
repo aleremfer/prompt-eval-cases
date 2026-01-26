@@ -81,4 +81,13 @@ Some utterances are meant to be **recognized**.
 
 From a QA perspective, the most robust response would be to ask the user what they are referring to.
 
-From a QA perspective, the most robust response would be to ask the user what they are referring to.
+## License
+
+This case study is based on a real interaction and may be reused for educational and research purposes.
+
+**Suggested license:**  
+Creative Commons Attribution 4.0 International (CC BY 4.0)  
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution is appreciated if this material is reused in internal QA documentation, benchmarks, or publications.
+
