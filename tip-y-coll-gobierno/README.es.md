@@ -14,9 +14,10 @@
 > La próxima semana, hablaremos del gobierno
 
 ## Interpretación esperada (humana)
-En el contexto cultural español, esta frase funciona como una **coletilla humorística** asociada al dúo cómico **Tip y Coll**.
+En el contexto cultural español, esta frase funciona como una **coletilla humorística** asociada al dúo cómico **Tip y Coll**.([ver Wikipedia](https://es.wikipedia.org/wiki/Tip_y_Coll)).
 
-No expresa una agenda futura ni una intención política real. Se utiliza como:
+No expresa una agenda futura ni una intención política real. 
+Se utiliza como:
 
 - ironía sobre la censura
 - promesa basada en el humor absurdo
@@ -49,7 +50,8 @@ El error consiste en:
 El modelo produce respuestas coherentes, pero conceptualmente incorrectas.
 
 ## Clasificación del fallo
-**False Understanding due to Missing Cultural Anchor**
+**Malentendidos debido a la falta de referencias culturales**
+(**False Understanding due to Missing Cultural Anchor**)
 
 En términos prácticos:
 > El modelo entiende el texto, pero no entiende que no debía interpretarlo. Simplemente debería poder
