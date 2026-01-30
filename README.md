@@ -17,3 +17,7 @@ The goal is not to rank models, but to document recurring failure modes in promp
 Most original prompts in this repository are written in Spanish, where many language-level issues, such as ambiguity, disambiguation, cultural context, and reasoning, tend to emerge more clearly in everyday usage.
 
 
+---
+
+If you are using this repository for prompt evaluation, LLM comparison, or QA work,
+notes or observations are welcome via issues.
